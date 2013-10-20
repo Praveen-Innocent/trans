@@ -1,7 +1,5 @@
 modified the contents of anotherfile.txt
 changes after bullshit which needs to go to prod
-<<<<<<< HEAD
 1 of 2 changes needs to be commited
-=======
 changes by somebody else
->>>>>>> 79fba1d2086cd7995335b894504c1b384c5b731e
+
