@@ -1,1 +1,1 @@
-and some contents
+modified the contents of anotherfile.txt
