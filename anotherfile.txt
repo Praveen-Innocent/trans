@@ -1,3 +1,4 @@
+ddddd
 cccccccccccccccccc
 eeeeeeeeee
 modified the contents of anotherfile.txt
@@ -11,4 +12,5 @@ stash changes
 bbbbbbbbbb
 changes also made to this
 aaaaaaaaaaaaaa
+zzz
 
